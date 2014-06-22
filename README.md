@@ -22,7 +22,7 @@
 
 -	How to Run the R Script - run_analysis.R
 
-	- set working directory > setwd("<working directory>")
+	- set working directory > setwd("working directory")
 	
 	- run command > source("run_analysis.R")	
 
