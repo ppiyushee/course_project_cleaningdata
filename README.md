@@ -3,20 +3,20 @@
 2. 	Environment Set Up 
 	
 	- In the first step , folowing files used as inputs for run_analysis.R are collected and kept it in one directory.
-		X_train.txt
-		X_test.txt
-		features.txt
-		y_train.txt
-		y_test.txt
-		activity_labels.txt
-		subject_train.txt
-		subject_test.txt
+		X_train.txt ,
+		X_test.txt ,
+		features.txt ,
+		y_train.txt ,
+		y_test.txt ,
+		activity_labels.txt ,
+		subject_train.txt ,
+		subject_test.txt ,
 	
 	- R script run_analysis.R also in the same directory. 
 
 	- run_analysis.R script uses the files above as inputs and creates the following output files in the same directory
-		tidy_data_set_1.txt 
-		tidy_data_set_2.txt 
+		tidy_data_set_1.txt ,
+		tidy_data_set_2.txt , 
 		Codebook.txt
  
 
