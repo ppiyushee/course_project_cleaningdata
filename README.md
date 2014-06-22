@@ -1,6 +1,6 @@
-1. 	In this Project we are creating a R script run_analysis.R to create two tidy data sets.
+- 	In this Project we are creating a R script run_analysis.R to create two tidy data sets.
 
-2. 	Environment Set Up 
+-	Environment Set Up 
 	
 	- In the first step , folowing files used as inputs for run_analysis.R are collected and kept it in one directory.
 		X_train.txt ,
@@ -20,7 +20,7 @@
 		Codebook.txt
  
 
-3.	How to Run the R Script - run_analysis.R
+-	How to Run the R Script - run_analysis.R
 
 	- set working directory > setwd("<working directory>")
 	
@@ -32,7 +32,7 @@
 		tidy_data_set_2.txt - file with subject,descritive activity name and average of all columns in tidy_data_set_1.txt for each subject and each activity
 		Codebook.txt - contains columns names for tidy_data_set_2.txt 
 
-4. 	How run_analysis.R works?
+-	How run_analysis.R works?
 		
 	- First it merges the training and test sets to create one data set.
 	- Extracts only the measurement on the mean() and std() from the data set using the indexes of mean() and std() measurements from features.txt
